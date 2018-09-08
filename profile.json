@@ -1,5 +1,16 @@
 {
   "firstName":"Renee",
   "lastName":"Kiffin",
-  "displayHandle":"reneekiffin"
+  "displayHandle":"reneekiffin",
+
+
+"posts" :[  "3 Coding classes, poor memory, weak skills = not a god combo",
+            "Time to start a coding 'routine'. Let's see how it goes.",
+            "Coding will be the death of me this semester."
+          ],
+
+
+ "age":"23",
+ "active":true
+
 }
