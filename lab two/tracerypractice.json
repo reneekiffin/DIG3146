@@ -17,7 +17,7 @@
 		"music producer"
 	],
 	"origin": [
-		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#. <hr>#http##occupation##domaindescription#.#com#"
+		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#. <hr>#http##occupation##domaindescription#.#extension#"
 	],
 	"adjective": [
 		"callous",
@@ -78,10 +78,10 @@
 		"daily",
 		"news"
 	],
-	"com": [
+	"extension": [
 		"com",
 		"us",
 		"org"
 	]
-	
+
 }
