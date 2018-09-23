@@ -1,0 +1,80 @@
+{
+	"name": [
+		"Bertram",
+		"Arabella",
+		"Cecil"
+	],
+	"occupation": [
+		"model",
+		"magician",
+		"politician",
+		"blogger",
+		"stamp collector"
+	],
+	"origin": [
+		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#."
+	],
+	"adjective": [
+		"callous",
+		"mopey",
+		"boisterous",
+		"sullen",
+		"exuberant"
+	],
+	"position": [
+		"model",
+		"magician",
+		"politician",
+		"blogger",
+		""
+	],
+	"gerund": [
+		"dreaming of",
+		"thinking of",
+		"petting",
+		"",
+		"hugging"
+	],
+	"modifier": [
+		"always",
+		"constantly",
+		"usually"
+	],
+	"object": [
+		"a jar of butterflies",
+		"sheep",
+		"the end of the world",
+		"a broken pinata"
+	],
+	"phrase": [
+		"falls down well",
+		"finds cure for cancer ",
+		"sings badly at karaoke night",
+		"elected Emperor Supreme"
+	],
+	"SecondNoun": [
+		"Family",
+		"Next Door Neighbor",
+		"Owen Wilson",
+		"President Obama",
+		"Pet Rock"
+	],
+	"SecondModifier": [
+		"Not",
+		"Very",
+		"Extremely"
+	],
+	"SecondAdjective": [
+		"Amused",
+		"Pleased",
+		"Upset"
+	],
+	"http": [
+		"http://",
+		"www.",
+		"https://"
+	],
+	"domain": [
+		"rule"
+	]
+}
