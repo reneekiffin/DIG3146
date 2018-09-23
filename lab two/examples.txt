@@ -26,6 +26,7 @@
 		"sullen",
 		"exuberant"
 	],
+
 	"gerund": [
 		"dreaming of",
 		"thinking of",
@@ -46,7 +47,7 @@
 	],
 	"phrase": [
 		"falls down well",
-		"finds cure for cancer ",
+		"finds cure for cancer ",
 		"sings badly at karaoke night",
 		"elected Emperor Supreme"
 	],
@@ -72,6 +73,7 @@
 		"www.",
 		"https://"
 	],
+
 	"domaindescription": [
 		"daily",
 		"news"
