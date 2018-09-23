@@ -1,0 +1,81 @@
+{
+	"name": [
+		"Bertram",
+		"Arabella",
+		"Cecil",
+		"Ana",
+		"Chloe",
+		"Tyler"
+	],
+	"occupation": [
+		"model",
+		"magician",
+		"politician",
+		"blogger",
+		"stamp collector",
+		"stripper",
+		"music producer"
+	],
+	"origin": [
+		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#.<hr>http://#website#.com"
+	],
+	"adjective": [
+		"callous",
+		"mopey",
+		"boisterous",
+		"sullen",
+		"exuberant"
+	],
+	"position": [
+		"model",
+		"magician",
+		"politician",
+		"blogger"
+	],
+	"gerund": [
+		"dreaming of",
+		"thinking of",
+		"petting",
+		"hugging",
+		"anticipating"
+	],
+	"modifier": [
+		"always",
+		"constantly",
+		"usually"
+	],
+	"object": [
+		"a jar of butterflies",
+		"sheep",
+		"the end of the world",
+		"a broken pinata"
+	],
+	"phrase": [
+		"falls down well",
+		"finds cure for cancer ",
+		"sings badly at karaoke night",
+		"elected Emperor Supreme"
+	],
+	"SecondNoun": [
+		"Family",
+		"Next Door Neighbor",
+		"Owen Wilson",
+		"President Obama",
+		"Pet Rock"
+	],
+	"SecondModifier": [
+		"Not",
+		"Very",
+		"Extremely"
+	],
+	"SecondAdjective": [
+		"Amused",
+		"Pleased",
+		"Upset"
+	],
+
+  "saved": [
+      "#[website:#secondnoun##occupation#]#"
+
+  ]
+}
