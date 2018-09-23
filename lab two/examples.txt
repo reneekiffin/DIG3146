@@ -2,17 +2,22 @@
 	"name": [
 		"Bertram",
 		"Arabella",
-		"Cecil"
+		"Cecil",
+		"Ana",
+		"Chloe",
+		"Tyler"
 	],
 	"occupation": [
 		"model",
 		"magician",
 		"politician",
 		"blogger",
-		"stamp collector"
+		"stamp collector",
+		"stripper",
+		"music producer"
 	],
 	"origin": [
-		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#."
+		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#. <hr>#http##occupation##domaindescription#.#com#"
 	],
 	"adjective": [
 		"callous",
@@ -20,13 +25,6 @@
 		"boisterous",
 		"sullen",
 		"exuberant"
-	],
-	"position": [
-		"model",
-		"magician",
-		"politician",
-		"blogger",
-		""
 	],
 	"gerund": [
 		"dreaming of",
@@ -48,7 +46,7 @@
 	],
 	"phrase": [
 		"falls down well",
-		"finds cure for cancer ",
+		"finds cure for cancer ",
 		"sings badly at karaoke night",
 		"elected Emperor Supreme"
 	],
@@ -74,7 +72,13 @@
 		"www.",
 		"https://"
 	],
-	"domain": [
-		"rule"
+	"domaindescription": [
+		"daily",
+		"news"
+	],
+	"com": [
+		"com",
+		"us",
+		"org"
 	]
 }
