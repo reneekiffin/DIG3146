@@ -1,86 +1,14 @@
-{
-	"name": [
-		"Bertram",
-		"Arabella",
-		"Cecil",
-		"Ana",
-		"Chloe",
-		"Tyler"
-	],
-	"occupation": [
-		"model",
-		"magician",
-		"politician",
-		"blogger",
-		"stamp collector",
-		"stripper",
-		"music producer"
-	],
-	"origin": [
-		"#name#, a #adjective# #occupation# #modifier# #gerund# #object#, #phrase#. #SecondNoun# #SecondModifier# #SecondAdjective#. <hr>#http##occupation##domaindescription#.#com#"
-	],
-	"adjective": [
-		"callous",
-		"mopey",
-		"boisterous",
-		"sullen",
-		"exuberant"
-	],
+Ana, a sullen stamp collector constantly thinking of a broken pinata, sings badly at karaoke night. President Obama Very Amused.
+www.stamp collectornews.com
 
-	"gerund": [
-		"dreaming of",
-		"thinking of",
-		"petting",
-		"",
-		"hugging"
-	],
-	"modifier": [
-		"always",
-		"constantly",
-		"usually"
-	],
-	"object": [
-		"a jar of butterflies",
-		"sheep",
-		"the end of the world",
-		"a broken pinata"
-	],
-	"phrase": [
-		"falls down well",
-		"finds cure for cancer ",
-		"sings badly at karaoke night",
-		"elected Emperor Supreme"
-	],
-	"SecondNoun": [
-		"Family",
-		"Next Door Neighbor",
-		"Owen Wilson",
-		"President Obama",
-		"Pet Rock"
-	],
-	"SecondModifier": [
-		"Not",
-		"Very",
-		"Extremely"
-	],
-	"SecondAdjective": [
-		"Amused",
-		"Pleased",
-		"Upset"
-	],
-	"http": [
-		"http://",
-		"www.",
-		"https://"
-	],
+Cecil, a boisterous model usually thinking of a jar of butterflies, sings badly at karaoke night. Next Door Neighbor Not Upset.
+http://stripperdaily.us
 
-	"domaindescription": [
-		"daily",
-		"news"
-	],
-	"com": [
-		"com",
-		"us",
-		"org"
-	]
-}
+Bertram, a exuberant politician usually petting a broken pinata, finds cure for cancer . Family Not Pleased.
+www.musicproducerdaily.com
+
+Cecil, a callous blogger constantly petting sheep, falls down well. Owen Wilson Extremely Pleased.
+https://stamp collectornews.com
+
+Arabella, a mopey stamp collector always gerund a broken pinata, falls down well. President Obama Not Pleased.
+http://politiciannews.org
